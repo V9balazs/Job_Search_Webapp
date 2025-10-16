@@ -1,0 +1,26 @@
+/* index.css — alap stílusok */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f9f9f9;
+}
+
+h1 {
+  color: #222;
+}
+
+input, button {
+  font-size: 14px;
+}
+
+button {
+  background-color: #0070f3;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+button:hover {
+  background-color: #0059c1;
+}
